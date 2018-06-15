@@ -1,4 +1,5 @@
 Proyecto desarrollado en colaboración con Francisco Gil Amorós ([@jostey](https://github.com/jostey)).
+Para algunas funciones se ha usado además una librería desarrollada por el grupo de investigación SIC de la Universidad de Cádiz.
 
 # catchFoodGame
 Juego de recogida de alimentos con la voz y la mano. Reconoce voz (palabras de entrenamiento) y la piel. Está programado en Matlab.
